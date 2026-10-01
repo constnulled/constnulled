@@ -3,42 +3,43 @@
 </div>
 --------
 
-### 🧠 About Me
+### ☕ About Me
 
-```asm
-.class public aconstnulled
-.super java/lang/Object
+```java
+public final class Developer {
 
-.field private age:I
-.field private location:Ljava/lang/String
+    final int age = 17;
+    final String field = "Commerce";
+    final String location = "Kerala, India";
 
-; === PROFILE ===
-; age      = 17
-; role     = Commerce Student / Developer
-; location = Kerala, India
+    final String[] interests = {
+        "Low-Level Programming",
+        "Reverse Engineering",
+        "Minecraft Security"
+    };
 
-; === INTERESTS ===
-; Low-Level Programming
-; Reverse Engineering
-; Minecraft Security
+    final String[] minecraft = {
+        "Client Modification",
+        "Protocol Analysis",
+        "Server Vulnerabilities"
+    };
 
-; === MINECRAFT ===
-; Client Modification
-; Protocol Analysis
-; Server Vulnerabilities
+    final String[] research = {
+        "Java Bytecode Obfuscation",
+        "ASM Transformations",
+        "Anti-Cheat Analysis"
+    };
 
-; === RESEARCH ===
-; Java Bytecode Obfuscation
-; ASM Transformations
-; Anti-Cheat Analysis
+    final String[] tools = {
+        "Ghidra", "IDA Pro", "x64dbg",
+        "Recaf", "JADX", "JByteMod"
+    };
 
-; === TOOLS ===
-; Ghidra / IDA Pro / x64dbg
-; Recaf / JADX / JByteMod
-
-; === HOBBIES ===
-; PaperCraft / ArmWrestling
-; Anime / Music / Fitness
+    final String[] hobbies = {
+        "PaperCraft", "ArmWrestling",
+        "Anime", "Music", "Fitness"
+    };
+}
 ```
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff007f,100:7928ca&height=70&section=footer" width="100%"/>
 
