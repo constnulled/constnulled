@@ -3,19 +3,14 @@
 </div>
 --------
 
-### 🔍 Instructions & Analysis
+### ⚡ About Me
 
-```jvm
-// Class: Joyel | Origin: Kerala, IN | Age: 17
-// Background: Commerce student -> Low-level & JVM Researcher
+**constnulled** — 17-year-old commerce student and low-level security researcher from **Kerala, India**. Focused on binary decompilation, Minecraft network architecture, and JVM internals.
 
-0: ldc           "Minecraft Protocol & Client Internals"
-2: invokevirtual Security/auditExploits:()V
-5: getstatic     JVM/ASM_Transforms:LBytecode/Obfuscation;
-8: checkcast     [Ghidra, IDA_Pro, x64dbg, Recaf, JADX, JbyteMod]
-11: aconst_null  // Hobbies: PaperCraft, ArmWrestling, Fitness, Anime, Music
-12: return
-```
+* **Research:** Client mods, packet inspection, bytecode transforms, anti-cheat mechanisms.
+* **Instruments:** Ghidra • IDA Pro • x64dbg • Recaf • JADX • JbyteMod
+* **Offline:** PaperCraft • Arm Wrestling • Fitness • Anime • Music
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff007f,100:7928ca&height=70&section=footer" width="100%"/>
 
 ### 🛠️ Tech Stack
