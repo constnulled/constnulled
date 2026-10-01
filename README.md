@@ -3,14 +3,16 @@
 </div>
 --------
 
-### 👨‍💻 About Me
+### ⚙️ SYSTEM_INFO // OPERATOR DOSSIER
 
-17-year-old commerce student and developer based in **Kerala,** India. Passionate about low-level programming, reverse engineering, and Minecraft security. Outside of development, you'll find me working on creative crafts or staying active.
+> Identity: 17 y/o Commerce Student & Systems Security Researcher  
+> Origin: Kerala, India  
+> Directive: Deconstructing binary logic, auditing Minecraft protocol layers, and analyzing JVM internals.
 
-* 🎮 **Minecraft Development:** Client Modification, Protocol Analysis, Server Vulnerabilities
-* 🔒 **Research:** Java Bytecode Obfuscation, ASM Transformations, Anti-Cheat Analysis
-* 🛠️ **Tools:** Ghidra, IDA Pro, x64dbg, Recaf, JADX, JbyteMod... etc
-* ✂️ **Hobbies & Interests:** PaperCraft, ArmWrestling, Anime, Music, & Fitness
+* **0x01 [Primary Vectors]** — Protocol Reverse Engineering • Client Alteration • Server Exploitation Auditing
+* **0x02 [JVM & Binary Deep-Dive]** — Java Bytecode Obfuscation • ASM Transforms • Anti-Cheat Diagnostics
+* **0x03 [Static & Dynamic Toolkit]** — Ghidra • IDA Pro • x64dbg • Recaf • JADX • JbyteMod
+* **0x04 [Offline Threads]** — Papercrafting • Arm Wrestling • Fitness • Anime • Music
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff007f,100:7928ca&height=70&section=footer" width="100%"/>
 
@@ -56,6 +58,3 @@
 
 📧 **Email:** joyelthedev99@gmail.com
 
-
-Rewrite to another style
-And give as copy paste style
