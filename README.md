@@ -3,17 +3,19 @@
 </div>
 --------
 
-### ⚙️ SYSTEM_INFO // OPERATOR DOSSIER
+### 🔍 Instructions & Analysis
 
-> Identity: 17 y/o Commerce Student & Systems Security Researcher  
-> Origin: Kerala, India  
-> Directive: Deconstructing binary logic, auditing Minecraft protocol layers, and analyzing JVM internals.
+```jvm
+// Class: Joyel | Origin: Kerala, IN | Age: 17
+// Background: Commerce student -> Low-level & JVM Researcher
 
-* **0x01 [Primary Vectors]** — Protocol Reverse Engineering • Client Alteration • Server Exploitation Auditing
-* **0x02 [JVM & Binary Deep-Dive]** — Java Bytecode Obfuscation • ASM Transforms • Anti-Cheat Diagnostics
-* **0x03 [Static & Dynamic Toolkit]** — Ghidra • IDA Pro • x64dbg • Recaf • JADX • JbyteMod
-* **0x04 [Offline Threads]** — Papercrafting • Arm Wrestling • Fitness • Anime • Music
-
+0: ldc           "Minecraft Protocol & Client Internals"
+2: invokevirtual Security/auditExploits:()V
+5: getstatic     JVM/ASM_Transforms:LBytecode/Obfuscation;
+8: checkcast     [Ghidra, IDA_Pro, x64dbg, Recaf, JADX, JbyteMod]
+11: aconst_null  // Hobbies: PaperCraft, ArmWrestling, Fitness, Anime, Music
+12: return
+```
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff007f,100:7928ca&height=70&section=footer" width="100%"/>
 
 ### 🛠️ Tech Stack
