@@ -5,42 +5,25 @@
 
 ### ☕ About Me
 
-```java
-public final class Developer {
+### ⚡ About Me
 
-    final int age = 17;
-    final String field = "Commerce";
-    final String location = "Kerala, India";
+**17-year-old Commerce student & developer** from **Kerala, India**.
 
-    final String[] interests = {
-        "Low-Level Programming",
-        "Reverse Engineering",
-        "Minecraft Security"
-    };
+Interested in:
+> `Low-Level Programming` · `Reverse Engineering` · `Minecraft Security`
 
-    final String[] minecraft = {
-        "Client Modification",
-        "Protocol Analysis",
-        "Server Vulnerabilities"
-    };
+**Minecraft**
+🎮 Client Modification · Protocol Analysis · Server Vulnerabilities
 
-    final String[] research = {
-        "Java Bytecode Obfuscation",
-        "ASM Transformations",
-        "Anti-Cheat Analysis"
-    };
+**Research**
+🔒 Java Bytecode Obfuscation · ASM Transformations · Anti-Cheat Analysis
 
-    final String[] tools = {
-        "Ghidra", "IDA Pro", "x64dbg",
-        "Recaf", "JADX", "JByteMod"
-    };
+**Toolbox**
+🛠️ Ghidra · IDA Pro · x64dbg · Recaf · JADX · JByteMod
 
-    final String[] hobbies = {
-        "PaperCraft", "ArmWrestling",
-        "Anime", "Music", "Fitness"
-    };
-}
-```
+**Interests**
+✂️ PaperCraft · ArmWrestling · Anime · Music · Fitness
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff007f,100:7928ca&height=70&section=footer" width="100%"/>
 
 ### 🛠️ Tech Stack
