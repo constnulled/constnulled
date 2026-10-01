@@ -5,11 +5,12 @@
 
 ### ⚡ About Me
 
-**constnulled** — 17-year-old commerce student and low-level security researcher from **Kerala, India**. Focused on binary decompilation, Minecraft network architecture, and JVM internals.
+17-year-old commerce student and developer based in **Kerala,** India. Passionate about low-level programming, reverse engineering, and Minecraft security. Outside of development, you'll find me working on creative crafts or staying active.
 
-* **Research:** Client mods, packet inspection, bytecode transforms, anti-cheat mechanisms.
-* **Instruments:** Ghidra • IDA Pro • x64dbg • Recaf • JADX • JbyteMod
-* **Offline:** PaperCraft • Arm Wrestling • Fitness • Anime • Music
+* 🎮 **Minecraft Development:** Client Modification, Protocol Analysis, Server Vulnerabilities
+* 🔒 **Research:** Java Bytecode Obfuscation, ASM Transformations, Anti-Cheat Analysis
+* 🛠️ **Tools:** Ghidra, IDA Pro, x64dbg, Recaf, JADX, JbyteMod... etc
+* ✂️ **Hobbies & Interests:** PaperCraft, ArmWrestling, Anime, Music, & Fitness
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff007f,100:7928ca&height=70&section=footer" width="100%"/>
 
