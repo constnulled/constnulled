@@ -3,15 +3,43 @@
 </div>
 --------
 
-### ⚡ About Me
+### 🧠 About Me
 
-17-year-old commerce student and developer based in **Kerala,** India. Passionate about low-level programming, reverse engineering, and Minecraft security. Outside of development, you'll find me working on creative crafts or staying active.
+```asm
+.class public aconstnulled
+.super java/lang/Object
 
-* 🎮 **Minecraft Development:** Client Modification, Protocol Analysis, Server Vulnerabilities
-* 🔒 **Research:** Java Bytecode Obfuscation, ASM Transformations, Anti-Cheat Analysis
-* 🛠️ **Tools:** Ghidra, IDA Pro, x64dbg, Recaf, JADX, JbyteMod... etc
-* ✂️ **Hobbies & Interests:** PaperCraft, ArmWrestling, Anime, Music, & Fitness
+.field private age:I
+.field private location:Ljava/lang/String
 
+; === PROFILE ===
+; age      = 17
+; role     = Commerce Student / Developer
+; location = Kerala, India
+
+; === INTERESTS ===
+; Low-Level Programming
+; Reverse Engineering
+; Minecraft Security
+
+; === MINECRAFT ===
+; Client Modification
+; Protocol Analysis
+; Server Vulnerabilities
+
+; === RESEARCH ===
+; Java Bytecode Obfuscation
+; ASM Transformations
+; Anti-Cheat Analysis
+
+; === TOOLS ===
+; Ghidra / IDA Pro / x64dbg
+; Recaf / JADX / JByteMod
+
+; === HOBBIES ===
+; PaperCraft / ArmWrestling
+; Anime / Music / Fitness
+```
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff007f,100:7928ca&height=70&section=footer" width="100%"/>
 
 ### 🛠️ Tech Stack
