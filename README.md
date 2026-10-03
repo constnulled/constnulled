@@ -32,7 +32,7 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats-fast.vercel.app/api?username=constnulled&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=JoyelTheDev&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=constnulled&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact" alt="Top Languages" />
 </p>
 
 <p align="center">
