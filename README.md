@@ -18,7 +18,7 @@
 
 <p align="center">
   <strong>Languages:</strong><br>
-  <img src="https://skillicons.dev/icons?i=java,cpp,html,bash&theme=dark" alt="Languages"/>
+  <img src="https://skillicons.dev/icons?i=java,cpp,html,bash,sql&theme=dark" alt="Languages"/>
 </p>
 
 <p align="center">
